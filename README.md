@@ -101,7 +101,3 @@ Os objetos são esferas e cilindros que se sobrepõem. Confira a malha no fatiad
 - **`cannot tokenize ...`**: o GML tem alguma sintaxe que o script não reconheceu. Ele imprime as primeiras linhas do arquivo já corrigido. Abra uma issue com essa saída.
 - **`AVISO: atributo '...' não encontrado`**: o nome do atributo de Z ou de cluster é diferente. Use `--z-attr` ou `--cluster-attr` com um dos nomes listados no aviso.
 - **Modelo grande ou alto demais**: reduza `--scale-xy` ou use um `--z-ratio` menor.
-
-## Licença
-
-Defina a licença do projeto antes de publicar (por exemplo, MIT).
